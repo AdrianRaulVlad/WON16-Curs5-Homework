@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="70f59778-bfd4-4bcd-8b0b-45de3b1adf83" name="Changes" comment="Create the final version of the main class before branching">
       <change afterPath="$PROJECT_DIR$/src/Exercise1.java" afterDir="false" />
+=======
+    <list default="true" id="70f59778-bfd4-4bcd-8b0b-45de3b1adf83" name="Changes" comment="First Homework commit to create the new repository">
+      <change afterPath="$PROJECT_DIR$/src/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise6.java" afterDir="false" />
+>>>>>>> origin/master
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -48,7 +58,16 @@
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/SSD/Training/WON16/curs5/WON16-Curs5-Homework/src/Main.java"
   }
+<<<<<<< HEAD
 }]]></component>
+=======
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+>>>>>>> origin/master
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -100,7 +119,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Homework commit to create the new repository" />
+<<<<<<< HEAD
     <MESSAGE value="Create the final version of the main class before branching" />
     <option name="LAST_COMMIT_MESSAGE" value="Create the final version of the main class before branching" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="First Homework commit to create the new repository" />
+>>>>>>> origin/master
   </component>
 </project>
