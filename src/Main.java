@@ -6,5 +6,7 @@ public class Main {
         Exercise2.returnHowManyNumbersAreOdd();
         Exercise3.returnNumbersGreaterThanNumber();
         Exercise4.fundRaisingDonations();
+        Exercise5.fundRaisingDonationsImproved();
+        Exercise6.printSentencesFromParagraph();
     }
 }
