@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70f59778-bfd4-4bcd-8b0b-45de3b1adf83" name="Changes" comment="First Homework commit to create the new repository">
+      <change afterPath="$PROJECT_DIR$/src/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WON16-Curs5-Homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WON16-Curs5-Homework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +57,12 @@
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/SSD/Training/WON16/curs5/WON16-Curs5-Homework/src/Main.java"
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
