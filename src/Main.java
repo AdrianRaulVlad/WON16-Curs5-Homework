@@ -8,5 +8,6 @@ public class Main {
         Exercise4.fundRaisingDonations();
         Exercise5.fundRaisingDonationsImproved();
         Exercise6.printSentencesFromParagraph();
+
     }
 }
